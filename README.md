@@ -18,3 +18,6 @@ This game was developed in Unreal Engine 5 utilizing plugins for landmass, water
 - Weapons do not line up with character model
 - Implement an inventory system
 - NPCs such as animals and soldiers.
+
+# Notes
+-Content is included in the gitignore due to large file sizes not compatible with the free version of GitHub. Functionality is all demoed within the software demo video above.
